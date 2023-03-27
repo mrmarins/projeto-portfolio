@@ -19,4 +19,4 @@ Meu primeiro portfolio desenvolvido com HTML e CSS
 
 ### Linkedin: https://www.linkedin.com/in/lucas-marins-58242b244/
 
-### Vercel: https://projeto-portfolio-83jwh76pl-mrmarins.vercel.appp
+### Vercel: https://projeto-portfolio-83jwh76pl-mrmarins.vercel.app/
