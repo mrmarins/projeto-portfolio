@@ -5,7 +5,7 @@ Meu primeiro portfolio desenvolvido com HTML e CSS
 
 ![Captura de tela 2023-03-27 020413](https://user-images.githubusercontent.com/116246063/227845786-f4973e91-11f8-4bbb-9666-e0e0cc094d09.jpg)
 
-#Ferramentas utilizadas:
+## Ferramentas utilizadas:
 
 *HTML
 
