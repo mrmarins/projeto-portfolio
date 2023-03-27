@@ -13,7 +13,7 @@ Meu primeiro portfolio desenvolvido com HTML e CSS
 
 *Flex-box
 
-##Feito por:
+## Feito por:
 
 ### Lucas Marins
 
